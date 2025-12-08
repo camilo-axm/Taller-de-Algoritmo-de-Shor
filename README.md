@@ -181,7 +181,7 @@ Para profundizar en computación cuántica:
 
 ## 👤 Autor
 
-**Camilo** - [GitHub Profile](https://github.com/camilo-axm)
+**Camilo Aguirre** - [GitHub Profile](https://github.com/camilo-axm)
 
 ## 📄 Licencia
 
